@@ -1,0 +1,179 @@
+Partie 2, K-MEANS :
+
+
+File : aggregation.arff
+
+Silhouette pour clusters allant de 2 à 50 :
+
+temps de calcul : 9.02s
+nombre de clusters trouvés : 4
+nombre de clusters idéaux : 7 
+
+
+Davies Bouldin pour clusters allant de 2 à 50 :
+
+temps de calcul : 4.28s
+nombre de clusters trouvés : 4
+nombre de clusters idéaux : 7 
+
+
+Calinski Harabasz pour clusters allant de 2 à 50 :
+
+temps de calcul : 3.97s
+nombre de clusters trouvés : 32
+nombre de clusters idéaux : 7 
+
+-------------------------------------------------------
+
+File : 2d-3c-no123.arff
+
+Silhouette pour clusters allant de 2 à 50 :
+
+temps de calcul : 8.80s
+nombre de clusters trouvés : 2
+nombre de clusters idéaux : 3 
+
+
+Davies Bouldin pour clusters allant de 2 à 50 :
+
+temps de calcul : 4.12s
+nombre de clusters trouvés : 2
+nombre de clusters idéaux : 3
+
+
+Calinski Harabasz pour clusters allant de 2 à 50 :
+
+temps de calcul : 3.99s
+nombre de clusters trouvés : 10
+nombre de clusters idéaux : 3 
+
+-------------------------------------------------------
+
+File : D31.arff
+
+Silhouette pour clusters allant de 2 à 50 :
+
+temps de calcul : 13.39s
+nombre de clusters trouvés : 31
+nombre de clusters idéaux : 31 
+
+
+Davies Bouldin pour clusters allant de 2 à 50 :
+
+temps de calcul : 6.41s
+nombre de clusters trouvés : 31
+nombre de clusters idéaux : 31
+
+
+Calinski Harabasz pour clusters allant de 2 à 50 :
+
+temps de calcul : 6.64s
+nombre de clusters trouvés : 31
+nombre de clusters idéaux : 31 
+
+-------------------------------------------------------
+
+File : wingnut.arff
+
+Silhouette pour clusters allant de 2 à 50 :
+
+temps de calcul : 10.24s
+nombre de clusters trouvés : 2 !!! les clusters sont mauvais
+nombre de clusters idéaux : 2 
+
+
+Davies Bouldin pour clusters allant de 2 à 50 :
+
+temps de calcul : 5.02s
+nombre de clusters trouvés : 20
+nombre de clusters idéaux : 2
+
+
+Calinski Harabasz pour clusters allant de 2 à 50 :
+
+temps de calcul : 5.28s
+nombre de clusters trouvés : 2 !!! les clusters sont mauvais
+nombre de clusters idéaux : 2 
+
+
+###########################################################
+###########################################################
+###########################################################
+
+Partie 3, Agglomerative :
+
+
+File : R15.arff
+
+Silhouette pour clusters allant de 2 à 50 :
+
+temps de calcul : 0.60s
+nombre de clusters trouvés : 15
+nombre de clusters idéaux : 15
+
+
+Davies Bouldin pour clusters allant de 2 à 50 :
+
+temps de calcul : 0.60s
+nombre de clusters trouvés : 15
+nombre de clusters idéaux : 15
+
+
+Calinski Harabasz pour clusters allant de 2 à 50 :
+
+temps de calcul : 0.41s
+nombre de clusters trouvés : 15
+nombre de clusters idéaux : 15
+
+
+###########################################################
+###########################################################
+###########################################################
+
+Partie 4, DBSCAN :
+
+File : spiral.arff
+
+Silhouette :
+
+temps de calcul : 3.19s
+nombre de clusters trouvés : 2
+nombre de clusters idéaux : 2
+
+
+File : banana.arff
+
+Silhouette :
+
+temps de calcul : 66.99s
+nombre de clusters trouvés : 2
+nombre de clusters idéaux : 2
+
+
+
+File : smile1.arff
+
+Silhouette :
+
+temps de calcul : 3.84s
+nombre de clusters trouvés : 4
+nombre de clusters idéaux : 4
+
+
+###########################################################
+###########################################################
+###########################################################
+
+Partie 5, HDBSCAN :
+
+File : smile1.arff
+
+temps de calcul :
+nombre de clusters trouvés :
+nombre de clusters idéaux :
+
+File : 3-spiral.arff
+
+temps de calcul :
+nombre de clusters trouvés :
+nombre de clusters idéaux :
